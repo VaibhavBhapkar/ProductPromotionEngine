@@ -1,5 +1,5 @@
 # ProductPromotionEngine
--> As defined test set i am considering A,B,C,D as my SKU IDs but its not restrcted you can add more also.
+-> As defined in test set i am considering A,B,C,D as my SKU IDs but its not restrcted you can add more also.
 
 -> Approch followed includes SOLID design priciple and factory design pattern.
 
