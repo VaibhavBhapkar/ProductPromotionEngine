@@ -15,7 +15,7 @@ namespace PromotionEngine
             bool loopContinue = true;
             while (loopContinue)
             {
-                Console.WriteLine("Commiting New Changes");
+                Console.WriteLine("Commiting New Changes with push");
                 Console.WriteLine("Please Enter Option No. 1)Product Price Calculation");
                 int option = Convert.ToInt32(Console.ReadLine());
                 List<SkuProduct> prodList = new List<SkuProduct>();
