@@ -16,6 +16,7 @@ namespace PromotionEngine
         public string SkuName1;
         public string SkuName2;
         public int count1;
+
         public int count2;
     }
 }
