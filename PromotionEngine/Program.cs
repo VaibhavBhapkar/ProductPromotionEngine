@@ -8,11 +8,13 @@ using System.Threading.Tasks;
 
 namespace PromotionEngine
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
             bool loopContinue = true;
+
+
             while (loopContinue)
             {
                 Console.WriteLine("Commiting New Changes with push");
@@ -66,6 +68,7 @@ namespace PromotionEngine
                     default:
                         Console.WriteLine("Value didn’t match earlier.");
                         break;
+
                 }
 
             }      
